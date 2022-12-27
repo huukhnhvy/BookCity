@@ -1,5 +1,6 @@
 import { Add, Remove } from "@mui/icons-material";
 import styled from "styled-components";
+import React from 'react';
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import Relate from "../components/Relate";

@@ -26,7 +26,7 @@ const Navbar = () => {
                 </div>
 
                 <div className="header-2">
-                    <nav className="navbar">
+                    <nav className="navbar1">
                         <a href="#home">Trang chủ</a>
                         <a href="#featured">Sản phẩm</a>
                         <a href="#reviews">Liên hệ</a>
